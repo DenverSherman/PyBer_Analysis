@@ -10,7 +10,7 @@ Here are the high-level summary statistics:
 
 ## Results
 <p align="center">
-  <src="https://github.com/DenverSherman/PyBer_Analysis/blob/master/Analysis/Fig1.png">
+  <img src="https://github.com/DenverSherman/PyBer_Analysis/blob/master/Analysis/Fig1.png">
 </p>
 
 ## Summary - Insights
